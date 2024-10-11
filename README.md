@@ -1,2 +1,1 @@
-# TLXYZ
-TLXYZ: Turtle's Obsidian Vault
+# TLXYZ: Turtle's Obsidian Vault
