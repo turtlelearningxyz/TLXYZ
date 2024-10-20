@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "511e456ca3c8f918",
+        "id": "f6155be30acab108",
         "type": "tabs",
         "children": [
           {
-            "id": "02725067d028358d",
+            "id": "2814843100171bee",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -19,7 +19,8 @@
               }
             }
           }
-        ]
+        ],
+        "stacked": true
       }
     ],
     "direction": "vertical"
@@ -129,11 +130,26 @@
               }
             }
           }
+        ],
+        "currentTab": 3
+      },
+      {
+        "id": "6f2ddcf3b83dba10",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "104b2124f9b458b7",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {}
+            }
+          }
         ]
       }
     ],
     "direction": "horizontal",
-    "width": 300,
+    "width": 457.5,
     "collapsed": true
   },
   "left-ribbon": {
@@ -146,15 +162,15 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "02725067d028358d",
+  "active": "2814843100171bee",
   "lastOpenFiles": [
+    "Notes/it's turtles all the way down.md",
     "LICENSE.md",
     "README.md",
     "Notes/Randy Pausch.md",
     "Notes/New file.md",
     "Notes/The Bullet Journal Method.md",
     "Notes/_Attachments_",
-    "Notes/it's turtles all the way down.md",
     "Notes",
     "Notes/The Last Lecture.md",
     "Notes/Getting Things Done (GTD).md"
